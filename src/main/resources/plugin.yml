@@ -1,0 +1,4 @@
+name: AttributefFix
+version: '${project.version}'
+main: de.malfrador.attributefix.AttributeFix
+api-version: 1.18
